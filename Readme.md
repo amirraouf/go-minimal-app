@@ -45,6 +45,3 @@ date of the subscription (User Story 4):
 9. Documentation:
    - Document the API endpoints and their usage for better understanding.
 
-Please note that the actual implementation will involve more detailed steps and considerations, such as error handling, input validation, and securing sensitive endpoints. Additionally, for testing, you can use Go's built-in testing framework or third-party testing libraries like "testing" or "goconvey."
-
-Remember that this outline is not a complete implementation, but it should give you a good starting point for building the web application with Go and PostgreSQL based on the provided user stories.
